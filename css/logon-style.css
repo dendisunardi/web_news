@@ -1,0 +1,92 @@
+fieldset {
+    border: 1px solid #b4b4bb;
+    width: 3%;
+    float: left;
+}
+
+.logon {
+
+	height: auto;
+}
+
+.logon-area {
+
+
+	
+	margin-top: 5px;
+}
+
+.logon-title {
+
+	height: 35px;
+	border-bottom: solid 2px;
+}
+
+.logon-title h2{
+	width: 230px;
+	height: 35px;
+	border-bottom: solid 3px;
+}
+
+.form-area {
+
+	
+	width: 100%;
+	height:350px;
+	margin-top: 35px;
+	margin-bottom: 35px;
+
+}
+
+
+.area {
+
+	width: 330px;
+	height: 300px;
+	margin: 10px;
+	margin-left: 5px
+
+
+}
+
+.clearfix {
+
+	padding-bottom: 5px;
+}
+
+.area input {
+
+	
+	padding:5px;
+	width:90%;
+	border:1px solid #888;
+	color:#666;
+	font-size:13px;
+	font-family:maven pro, sans-serif;
+	border:#999 1px solid;
+	resize: none;
+}
+
+
+.area  .submit {
+
+	
+	
+	color:#fff;
+	background: #03266D;
+	cursor: hand;
+	
+}
+
+
+
+.login {
+
+	float: left;
+}
+
+.signup {
+
+	float: left;
+	margin-top: 0px;
+}
